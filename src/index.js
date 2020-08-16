@@ -4,12 +4,12 @@ import './index.css';
 import * as serviceWorker from './serviceWorker';
 import "tachyons";
 import App from "./App";
-import { robots } from "./robots";
-import Cardlist from "./Cardlist";
+// import { robots } from "./robots";
+// import Cardlist from "./Cardlist";
 
 ReactDOM.render(
   <App />,
-  , document.getElementById('root')
+  document.getElementById('root')
 );
 
 // If you want your app to work offline and load faster, you can change

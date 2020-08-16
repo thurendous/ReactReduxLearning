@@ -43,14 +43,20 @@ export const robots = [
         email: "wengengzhang@gmail.com"
     },
     {
-        id: 8,
+        id: 89,
         name: "于洋",
         username: "wengengzhang",
         email: "wengengzhang@gmail.com"
     },
     {
-        id: 8,
+        id: 82,
         name: "张文庚",
+        username: "wengengzhang",
+        email: "wengengzhang@gmail.com"
+    },
+    {
+        id: 81,
+        name: "Mark Wu",
         username: "wengengzhang",
         email: "wengengzhang@gmail.com"
     },
