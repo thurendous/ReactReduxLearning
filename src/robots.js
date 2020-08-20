@@ -67,7 +67,7 @@ export const robots = [
         email: "wengengzhang@gmail.com"
     },
     {
-        id: 80,
+        id: 83,
         name: "ごそうてい",
         username: "wengengzhang",
         email: "wengengzhang@gmail.com"
